@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Abhay",
+      "email": "abhay@test.com",
+      "password": "@123Qwert",
+      "id": 1
+    },
+    {
+      "name": "Abhi",
+      "email": "abhi@test.com",
+      "password": "@123Qwert",
+      "id": 2
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul@test.com",
+      "password": "@123Qwert",
+      "id": 3
+    },
+    {
+      "name": "Shilpi Singh",
+      "email": "shilpi@test.com",
+      "password": "@123Qwert",
+      "id": 4
+    },
+    {
+      "name": "Pooja",
+      "email": "pooja@test.com",
+      "password": "@123Qwert",
+      "id": 5
+    },
+    {
+      "name": "Himani",
+      "email": "himani@test.com",
+      "password": "@123Qwert",
+      "id": 6
+    },
+    {
+      "name": "Peter",
+      "email": "peter@test.com",
+      "password": "@123Qwert",
+      "id": 7
+    },
+    {
+      "name": "John",
+      "email": "john@test.com",
+      "password": "@123Qwert",
+      "id": 8
+    },
+    {
+      "name": "Mukesh Kumar",
+      "email": "mukesh@test.com",
+      "password": "@123Qwert",
+      "id": 9
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Jaypee Hostel",
+      "address": "Agra",
+      "contact": "1111",
+      "id": 1
+    },
+    {
+      "name": "KFC",
+      "address": "Noida Sector-62",
+      "contact": "1221",
+      "id": 2
+    },
+    {
+      "name": "Tata Hotel",
+      "address": "Delhi CP",
+      "contact": "1441",
+      "id": 4
+    },
+    {
+      "name": "Nawab Hotel",
+      "address": "Lucknow",
+      "contact": "1551",
+      "id": 5
+    }
+  ]
+}
